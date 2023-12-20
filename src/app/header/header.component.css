@@ -1,0 +1,17 @@
+.header-container {
+  background-color: #3498db; /* Blue background color */
+  height: 10%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.header-content {
+  padding: 5px;
+}
+
+.header-text {
+  color: white; /* Text color */
+  font-size: 1.5rem; /* Adjust the font size as needed */
+  font-weight: bold;
+}
